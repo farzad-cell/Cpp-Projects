@@ -1,10 +1,30 @@
 ﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# Universal Visual Studio & C++ Ignore Rules
 ################################################################################
 
-/Calculator/x64/Debug/Calculator.exe
-/Calculator/Calculator.sln
-/Calculator/Calculator.vcxproj.user
-/Calculator/Calculator.vcxproj.filters
-/Calculator/Calculator.vcxproj
-/Calculator/.vs/
+# Ignore the entire .vs folder (hidden settings)
+.vs/
+
+# Ignore all Build Folders (where the "garbage" .exe and .obj live)
+[Xx]64/
+[Xx]86/
+[Dd]ebug/
+[Rr]elease/
+
+# Ignore specific temporary MSBuild files
+*.user
+*.filters
+*.aps
+*.pdb
+*.ilk
+*.log
+*.obj
+*.tlog
+*.lastbuildstate
+*.recipe
+*.idb
+
+# If you want to keep your Project/Solution files, leave these OUT. 
+# If you ONLY want the .cpp file on GitHub, uncomment the lines below:
+# *.sln
+# *.vcxproj
