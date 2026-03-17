@@ -1,4 +1,4 @@
-
+// A simple calculator program that performs basic arithmetic operations (+, -, *, /, ^) and square root (0$).
 //Created by Farzad Darwazi on 9/6/2025.
 
 
