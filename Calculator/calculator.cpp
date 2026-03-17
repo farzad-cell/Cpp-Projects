@@ -1,4 +1,5 @@
 // A simple calculator program that performs basic arithmetic operations (+, -, *, /, ^) and square root (0$).
+// The user can input expressions in the format (num1 operator num2) and the program will output the result.
 //Created by Farzad Darwazi on 9/6/2025.
 
 
