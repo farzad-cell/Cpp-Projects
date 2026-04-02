@@ -1,0 +1,10 @@
+The_Shawshank_Redemption 1994 9.3
+The_Godfather 1972 9.2
+The_Dark_Knight 2008 9.0
+Schindlers_List 1993 8.9
+Pulp_Fiction 1994 8.9
+Forrest_Gump 1994 8.8
+Inception 2010 8.7
+The_Matrix 1999 8.7
+Goodfellas 1990 8.7
+Interstellar 2014 8.6

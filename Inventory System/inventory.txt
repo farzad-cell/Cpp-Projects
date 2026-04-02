@@ -1,0 +1,9 @@
+8
+1001 Laptop 15 899.99
+1002 Mouse 150 24.99
+1003 Keyboard 75 79.99
+1004 Monitor 30 299.99
+1005 Headphones 60 149.99
+1006 Webcam 45 89.99
+1007 USB_Cable 200 12.99
+1008 Mouse_Pad 180 19.99
